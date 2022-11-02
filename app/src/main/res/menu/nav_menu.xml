@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="홈"
+        android:icon="@drawable/ic_outline_home_24"/>
+    <item
+        android:id="@+id/timerFragment"
+        android:title="타이머"
+        android:icon="@drawable/ic_outline_timer_24"/>
+    <item
+        android:id="@+id/facilitiesFragment"
+        android:title="시설"
+        android:icon="@drawable/ic_outline_local_cafe_24"/>
+    <item
+        android:id="@+id/missingFragment"
+        android:title="유기"
+        android:icon="@drawable/ic_baseline_360_24"/>
+    <item
+        android:id="@+id/communityFragment"
+        android:title="커뮤니티"
+        android:icon="@drawable/ic_outline_groups_24"/>
+
+</menu>
